@@ -1,12 +1,12 @@
 <?php
 /*
 Plugin Name: Maildit
-Plugin URI: http://pronamic.eu/wordpress/maildit/
-Description: With the Maildit WordPress plugin users can easily create digital newsletters within WordPress. 
-Version: 1.0
+Plugin URI: http://www.pronamic.eu/plugins/maildit/
+Description: Deprecated — With the Maildit WordPress plugin users can easily create digital newsletters within WordPress. 
+Version: 1.0.1
 Requires at least: 3.0
 Author: Pronamic
-Author URI: http://pronamic.eu/
+Author URI: http://www.pronamic.eu/
 License: GPL
 */
 
